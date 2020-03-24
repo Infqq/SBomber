@@ -1,6 +1,7 @@
 <h1 align="center">SBomber</h1>
 <p align="center">
     Открытый SmsBomber на Python
+ <p align="center">
     Автор: @shabakoff
     <br /><br />
 </p>
